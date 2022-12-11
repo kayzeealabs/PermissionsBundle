@@ -4,7 +4,7 @@
     "type": "symfony-bundle",
     "keywords": ["User management"],
     "require": {
-        "php": "^5.5.9 || ^7.0",
+        "php": "^5.5.9 || ^7.0 || ^8.1" ,
         "doctrine/doctrine-bundle": "^1.9",
         "doctrine/orm": "^2.5 || ^2.6",
         "symfony/framework-bundle": "^2.7 || ^3.0 || ^4.0",
